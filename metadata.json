@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust Discovery",
+  "description": "A comprehensive travel discovery platform with 100+ destinations, interactive maps, itineraries, and comparison tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
